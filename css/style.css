@@ -1,0 +1,21 @@
+h1{
+    color:rgb(90, 221, 90);
+    font-size: 120px;
+}
+/** */
+body{
+    text-align: center;
+    background-image: url(../img/fondo1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+p{
+    color: rgb(30, 30, 31);
+    font-size-adjust: 30px;
+    text-align:justify;
+}
+a{
+    color: rgb(226, 43, 43);
+}
